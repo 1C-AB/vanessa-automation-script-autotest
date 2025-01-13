@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.041.37",
-	"КаталогФич": "D:\\GitHub\\vanessa-automation-script-autotest\\Features",
+	"КаталогФич": "D:\\GitHub\\vanessa-automation-script-autotest\\Features\\OTP\\OTPUnionTest.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
