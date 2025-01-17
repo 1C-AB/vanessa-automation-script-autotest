@@ -1,0 +1,15 @@
+КомандаЗапуска == C:\Program Files\1cv8\8.3.24.1586\bin\1cv8.exe
+ПользовательБазы == Администратор
+ПарольБазы == zRfNKRQA)T
+ПутьКРасширению == D:\VA\vanessa-automation.1.2.041.37\vanessa-automation\vanessa-automation.epf
+СтрокаПодключенияКБазе == Srvr=""1ab-vss08"";Ref=""projects_otp_test"";
+VAParams == D:\GitHub\vanessa-automation-script-autotest\VaParams\VAParams.json
+ТестовыеНастройки == D:\VA\TestParams\TestVAParams.json
+НастройкиКаталогаФич == D:\GitHub\vanessa-automation-script-autotest\Features\WZ\UT\UnionUT.feature
+Логи == D:\VA\logs\log.txt
+КомандаЗапускаОбновляемойБазы == C:\Program Files\1cv8\8.3.25.1394\bin\1cv8.exe
+ПутьКОбновляемойБазе == D:\ZSavar\Base\UNFTest
+ПутьКЛогам == D:\ZSavar\Base\Logs\update.log
+ПользовательОбновляемойБазы == Администратор
+КаталогОбновления == D:\ZSavar\Base\Update\1c\smallbusiness\3_0_10_178\
+ФайлОбновления == 1cv8.cfu
