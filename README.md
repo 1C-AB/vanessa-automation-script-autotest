@@ -62,11 +62,9 @@
   4. Жмем на «Шестеренку» в верхней панели настроек.
   5. Жмем «Сохранить настройки»
   6. Жмем «Выгрузить настройки в файл»
+     ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 004](https://github.com/user-attachments/assets/b86812bd-ba9b-4159-957d-e2e4a455f253)
 
-    ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 004](https://github.com/user-attachments/assets/807187b3-7fd3-44f3-8c3f-160ab68c82bf)
-
-
-  7. Выбираем путь до папки **VaParams**
+  8. Выбираем путь до папки **VaParams**
 
 **Описание API**
 -----
