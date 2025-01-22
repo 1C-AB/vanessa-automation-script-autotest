@@ -55,14 +55,14 @@
   1. Вводим параметры подключения
   2. Жмем «Сохранить»
   
-    ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 003](https://github.com/user-attachments/assets/3288c5b8-0de0-4535-b67b-6d2f5e0e5114)
+    ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 003](https://github.com/user-attachments/assets/afab3dfe-e885-451a-9827-c4a86e9785ba)
 
   3. Тестируем подключение. Если клиент подключился корректно, строка с клиентом тестирования будет подсвечена *зеленым цветом*, переходим к п.4, иначе повторяем 1, 2, 3
   4. Жмем на «Шестеренку» в верхней панели настроек.
   5. Жмем «Сохранить настройки»
   6. Жмем «Выгрузить настройки в файл»
 
-    ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 004](https://github.com/user-attachments/assets/5023ba9c-54d4-4ece-bf1c-6c1fd315bf5c)
+    ![Aspose Words 7ef5f5f2-ab07-47b8-9392-69f1c249303d 004](https://github.com/user-attachments/assets/0b90155c-dcbf-4152-b6aa-5b0fb449f72d)
 
   7. Выбираем путь до папки **VaParams**
 
