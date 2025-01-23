@@ -6,9 +6,9 @@
 ДанныеПодключенияМенеджераТестирования = Srvr=""1ab-vss08"";Ref=""projects_otp_test"";
 VAParams = D:\GitHub\vanessa-automation-script-autotest\VaParams\VAParams.json
 ТестовыеНастройки = TestParams\TestVAParams.json
-НастройкиКаталогаФич = D:\GitHub\vanessa-automation-script-autotest\Features\WZ\UT\UnionUT.feature
+НастройкиКаталогаФич = "D:\GitHub\vanessa-automation-script-autotest\Features\WZ\UNF\UnionTestApiForms.feature"
 Логи = logs\log.txt
-ПутьКОбновляемойБазе = D:\Base1C\YT1120\1c\trade\11_5
+ПутьКОбновляемойБазе = D:\ZSavar\Base\UNFTest
 ПутьКЛогам = D:\ZSavar\Base\Logs\update.log
 ПользовательОбновляемойБазы = Администратор
-КаталогСОбновлениями = D:\ZSavar\Base\Update\trade\1cv8.cfu
+КаталогСОбновлениями = D:\ZSavar\Base\Update\smallbusiness\1cv8.cfu
