@@ -4,9 +4,9 @@
 ПутьККаталогуVA = D:\VA\
 ПутьКОбработке = vanessa-automation.1.2.041.37\vanessa-automation\vanessa-automation.epf
 ДанныеПодключенияМенеджераТестирования = Srvr=""1ab-vss08"";Ref=""projects_otp_test"";
-VAParams = D:\GitHub\vanessa-automation-script-autotest\VaParams\VAParams.json
+VAParams = \VaParams\VAParams.json
 ТестовыеНастройки = TestParams\TestVAParams.json
-НастройкиКаталогаФич = "D:\GitHub\vanessa-automation-script-autotest\Features\WZ\ROZ\ROZ_Union.feature"
+НастройкиКаталогаФич = \Features\WZ\ROZ\ROZ_Union.feature
 Логи = logs\log.txt
 ПутьКОбновляемойБазе = D:\ZSavar\Base\3.0.7.95
 ПутьКЛогам = D:\ZSavar\Base\Logs\update.log

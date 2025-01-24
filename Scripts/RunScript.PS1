@@ -16,7 +16,9 @@ $parentDir = Split-Path -Path $currentDir -Parent
 $settingFile = "Settings.txt"
 $finalPathToSettings = $parentDir + $PathToSettings + $settingFile
 
+# Получение полного пути к директории GitHub
+$GiHubDirectory = $parentDir + $PathToGiHubDirectory
+
 # Запуск команды
 $executorPath = "D:\Executor\executor_u_6_0_4_25\executor.cmd"
-& $executorPath $finalPathToScript $finalPathToSettings $UpdateParam
-
+& $executorPath $finalPathToScript $finalPathToSettings $GiHubDirectory $UpdateParam 

@@ -4,9 +4,9 @@
 ПутьККаталогуVA = D:\VA\
 ПутьКОбработке = vanessa-automation.1.2.041.37\vanessa-automation\vanessa-automation.epf
 ДанныеПодключенияМенеджераТестирования = Srvr=""1ab-vss08"";Ref=""projects_otp_test"";
-VAParams = D:\GitHub\vanessa-automation-script-autotest\VaParams\VAParams.json
+VAParams = \VaParams\VAParams.json
 ТестовыеНастройки = TestParams\TestVAParams.json
-НастройкиКаталогаФич = D:\GitHub\vanessa-automation-script-autotest\Features\WZ\UT\UnionUT.feature
+НастройкиКаталогаФич = \Features\WZ\UT\UnionUT.feature
 Логи = logs\log.txt
 ПутьКОбновляемойБазе = D:\Base1C\YT1120\1c\trade\11_5
 ПутьКЛогам = D:\ZSavar\Base\Logs\update.log
